@@ -31,6 +31,8 @@
 30. How to avoid memory leaks ?
 31. What is Docker ?
 32. Difference between Docker Image and Container ?
+34. What is sychronized block ?
+35. DIfference between Synchronized and Reenterant lock ?
 
 33. Have you used Kafka/Kubernetes ?
 
