@@ -1,0 +1,42 @@
+1. @Transactional annotation propogtion types
+2. Pagination ? how to do ?
+3. ApplicationCOntext and BeanFactory difference
+4. What is autoconfguration ? How to do ?
+5. Dependency Injection and IOC ?
+5. setter DI and Constructor DI difference 
+6. CICD - github actions if you face any issue, how will you debug ?
+7. How you have implemented security ?
+8. How OAuth works ? Explain with example
+9. How to optimise sql query?
+10. Subqerry and correlated query difference
+11. CTE in db ?
+12. Should we do indexing everytime ?
+13. What is microservices ?
+14. Explain microservices architecture
+15. What is Service Discovery ?
+16. How microservices communicate ?
+17. Write code for api, for microservices communication
+18. In API how do we deserialize/serialize object ?
+19. POST vs PUT mapping difference ?
+20. We can do new data addition and existing data update through PUT only, then why do we need POST ?
+21. What is idempotency ? Between POST and PUT who is idempotent ?
+22. Virtual threads ?
+23. Which Java 17 features you have used ?
+24. What is Stream API ? Where you have used it ? Why to use it ?
+25. Dfference between HashTable and HashMap ?
+26. Working of HashMap ?
+27. Fail Safe and Fail Fast Iterator ?
+28. Why to use them instead over loops ?
+29. Explain Java memry model.
+30. How to avoid memory leaks ?
+31. What is Docker ?
+32. Difference between Docker Image and Container ?
+
+33. Have you used Kafka/Kubernetes ?
+
+
+-----------REACT JS -------------------
+
+1. How to manage state in react ?
+2. Difference between context API and Redux ?
+3. Write a custom hook
